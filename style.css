@@ -1,6 +1,6 @@
 h3 {
   color: #bee1e6 ;
-  font-size: 40px;
+  font-size: 45px;
 }
 
 body {
@@ -8,16 +8,16 @@ body {
 }
 
 img {
-  border: solid 6px #168aad;
+  border: solid 12px #168aad;
 }
 
 img:hover {
-  border: dashed 6px white;
+  border: dashed 12px #ffc300 ;
 }
 
 h3:hover {
   color:#ffc300;
-  font-size: 60px;
+  font-size: 45px;
 }
 nav {
   list-style-type: none;
@@ -25,7 +25,7 @@ nav {
   background-color: #bee1e6;
   top: 10;
   width: 30%;
-  left: 1;
+  left: 10;
 }
 li{
   display: inline;
